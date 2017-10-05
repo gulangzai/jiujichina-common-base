@@ -1,25 +1,5 @@
 ﻿package com.lanbao.base;
 
-import java.io.OutputStream;
-import java.sql.Blob;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
-import java.sql.SQLException;
-import java.sql.Timestamp;
-import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.Iterator;
-import java.util.List;
-
-import javax.sql.DataSource;
-
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.jdbc.datasource.DataSourceUtils;
-
-
-
 
 public class BaseDAO {
 
@@ -79,8 +59,6 @@ public class BaseDAO {
 
 	        return sb.toString();
 	    }
-	 
-	 
-	 
+	  
 
 }

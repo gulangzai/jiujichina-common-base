@@ -6,14 +6,13 @@
     <artifactId>jiujichina-common-parent</artifactId>
     <version>1.0.1</version>
   </parent>
-  
-   <groupId>com.jiujichina</groupId>
+   
    <artifactId>jiujichina-common-base</artifactId>
    <version>${jiujichina-common-base.version}</version>
   
   
   
-     <repositories>
+  <repositories>
        <repository>
            <id>nexus</id>
             <name>Team Nexus Repository</name>

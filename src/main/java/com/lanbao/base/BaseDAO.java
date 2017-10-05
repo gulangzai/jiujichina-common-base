@@ -1,4 +1,4 @@
-﻿package com.lanbao.base;
+package com.lanbao.base;
 
 
 public class BaseDAO {
